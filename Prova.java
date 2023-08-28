@@ -13,7 +13,7 @@ public class Prova {
         // vetor para armazenar a quantidade de cada conceito como proposto na atividade avaliativa
         int[] qntdConceitos = { 0, 0, 0, 0 };
         // vetor para identificar os conceitos válidos
-        Character[] conceitos = { 'O', 'B', 'R', 'I' };
+        Character[] conceitos = { 'O', 'B', 'S', 'I' };
         do {
             try {
                 // função para limpar a tela e ficar melhor visualmente
