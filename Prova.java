@@ -71,6 +71,7 @@ public class Prova {
                 case 2:
                     ClearScreen();
                     // for each para ler os dados do map
+                    // o key set retorna as chaves do map para procurar os valores e mostrar
                     for (String aluno : alunos.keySet()) {
                         System.out.println("Aluno: " + aluno + " Conceito: " + alunos.get(aluno));
 
